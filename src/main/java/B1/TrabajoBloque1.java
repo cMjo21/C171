@@ -19,6 +19,7 @@ public class TrabajoBloque1 {
         Integer mayor = numero1;
         if (numero2.compareTo(mayor) > 0) {
             mayor = numero2;
+
         }
         if (numero3.compareTo(mayor) > 0) {
             mayor = numero3;
